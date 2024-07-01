@@ -11,7 +11,7 @@ VidPic Organiser is a computer vision project aimed at organizing images and vid
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Saksham10-11/VidPic-Organizer
+   https://github.com/adityawattamwar/image-classifier.git
    ```
 
 2. Install the required dependencies:
